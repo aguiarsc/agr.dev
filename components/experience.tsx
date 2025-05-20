@@ -40,7 +40,7 @@ export default function Experience() {
     {
       title: "Altia Consultant – Internship",
       period: "2023 - Present",
-      location: "Madrid, Spain",
+      location: "Galicia, Spain",
       description:
         "Developing Java applications with Spring Boot. Working on microservices architecture and database layer optimization. Worked with Docker and Git. SQL and ETL bootcamp. LLM-related projects.",
       icon: <Briefcase className="w-6 h-6" />,
